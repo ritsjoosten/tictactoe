@@ -1,6 +1,6 @@
 # Explanation #
 
-If you want to test this on your own, you need to change the phpmyadmin login credentials in the connect.php file. You can also test it on www.ritsjoosten.nl/tictactoe (not all the games in the game-result page are correct regarding 'win' or 'tie').
+If you want to test this on your own, you need to change the phpmyadmin login credentials in the connect.php file. You can also test it on www.ritsjoosten.nl/tictactoe (not all the games in the game-result page are correct regarding 'win' or 'tie'). Also, I'm not sure if it will work like this if you copy the files to another server. I had to change some of the links in the files because it is a Wordpress website and something wasn't working as it was supposed to. Anyway, you can look through the files and watch it work on my website.
 
 There are two pages: _index.php_ and _game-results.php_. The index page allows two players to play tic-tac-toe, the game-results page allows users to review the results of previous games. 
 
